@@ -1,0 +1,52 @@
+﻿          1 file(s) copied.
+          1 file(s) copied.
+  Asset.cpp
+  AssetController.cpp
+  FileController.cpp
+  GameController.cpp
+  Level.cpp
+C:\Users\akret\source\repos\SDLLevels - myprivatecopy\SDLLevels\Level.cpp(56,56): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\akret\source\repos\SDLLevels - myprivatecopy\SDLLevels\Level.cpp(56,25): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\akret\source\repos\SDLLevels - myprivatecopy\SDLLevels\Level.cpp(56,14): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\akret\source\repos\SDLLevels - myprivatecopy\SDLLevels\Level.cpp(58,61): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\akret\source\repos\SDLLevels - myprivatecopy\SDLLevels\Level.cpp(58,28): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\akret\source\repos\SDLLevels - myprivatecopy\SDLLevels\Level.cpp(58,14): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\akret\source\repos\SDLLevels - myprivatecopy\SDLLevels\Level.cpp(60,57): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\akret\source\repos\SDLLevels - myprivatecopy\SDLLevels\Level.cpp(60,26): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\akret\source\repos\SDLLevels - myprivatecopy\SDLLevels\Level.cpp(60,14): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\akret\source\repos\SDLLevels - myprivatecopy\SDLLevels\Level.cpp(62,57): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\akret\source\repos\SDLLevels - myprivatecopy\SDLLevels\Level.cpp(62,26): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\akret\source\repos\SDLLevels - myprivatecopy\SDLLevels\Level.cpp(62,14): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\akret\source\repos\SDLLevels - myprivatecopy\SDLLevels\Level.cpp(64,57): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\akret\source\repos\SDLLevels - myprivatecopy\SDLLevels\Level.cpp(64,26): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\akret\source\repos\SDLLevels - myprivatecopy\SDLLevels\Level.cpp(64,14): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\akret\source\repos\SDLLevels - myprivatecopy\SDLLevels\Level.cpp(66,57): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\akret\source\repos\SDLLevels - myprivatecopy\SDLLevels\Level.cpp(66,26): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\akret\source\repos\SDLLevels - myprivatecopy\SDLLevels\Level.cpp(66,14): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\akret\source\repos\SDLLevels - myprivatecopy\SDLLevels\Level.cpp(68,57): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\akret\source\repos\SDLLevels - myprivatecopy\SDLLevels\Level.cpp(68,26): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\akret\source\repos\SDLLevels - myprivatecopy\SDLLevels\Level.cpp(68,14): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\akret\source\repos\SDLLevels - myprivatecopy\SDLLevels\Level.cpp(70,57): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\akret\source\repos\SDLLevels - myprivatecopy\SDLLevels\Level.cpp(70,26): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\akret\source\repos\SDLLevels - myprivatecopy\SDLLevels\Level.cpp(70,14): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\akret\source\repos\SDLLevels - myprivatecopy\SDLLevels\Level.cpp(72,57): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\akret\source\repos\SDLLevels - myprivatecopy\SDLLevels\Level.cpp(72,26): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\akret\source\repos\SDLLevels - myprivatecopy\SDLLevels\Level.cpp(72,14): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\akret\source\repos\SDLLevels - myprivatecopy\SDLLevels\Level.cpp(74,57): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\akret\source\repos\SDLLevels - myprivatecopy\SDLLevels\Level.cpp(74,26): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\akret\source\repos\SDLLevels - myprivatecopy\SDLLevels\Level.cpp(74,14): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  Renderer.cpp
+  Resource.cpp
+C:\Users\akret\source\repos\SDLLevels - myprivatecopy\SDLLevels\Resource.cpp(52,40): warning C4267: '=': conversion from 'size_t' to 'byte', possible loss of data
+  SDLLevels.cpp
+  SoundEffect.cpp
+  SpriteAnim.cpp
+  SpriteSheet.cpp
+  StackAllocator.cpp
+  Texture.cpp
+  TGAReader.cpp
+  Timing.cpp
+  TTFont.cpp
+  Unit.cpp
+  Generating Code...
+  SDLLevels.vcxproj -> C:\Users\akret\source\repos\SDLLevels - myprivatecopy\Debug\SDLLevels.exe
